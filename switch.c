@@ -1,11 +1,11 @@
 switch(c)
 {
 	case 1:
-		printf("aiml")
+		printf("new1")
 	case 2:
 		printf("btech")
 	case 3:
 		printf("cse")
-	case 4:
+	case 4:	
 		printf("aset")
 }
