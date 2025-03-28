@@ -1,7 +1,7 @@
 switch(c)
 {
 	case 1:
-		printf("aiml")
+		printf("b1 changes")
 	case 2:
 		printf("btech")
 	case 3:
