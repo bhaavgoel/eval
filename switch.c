@@ -6,4 +6,6 @@ switch(c)
 		printf("btech")
 	case 3:
 		printf("cse")
-		}
+	case 4:
+		printf("aset")
+}
