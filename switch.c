@@ -7,5 +7,5 @@ switch(c)
 	case 3:
 		printf("b3 changes")
 	case 4:
-		printf("aset")
+		printf("b4 changes")
 }
